@@ -4,6 +4,7 @@ import { SignedIn, SignedOut, UserButton } from "@clerk/nextjs";
 import { Button } from "../ui/button";
 import MobileNav from "./MobileNav";
 import NavItems from "./NavItems";
+// import { ModeToggle } from "../mode-toggle";
 
 const Header = () => {
   return (
